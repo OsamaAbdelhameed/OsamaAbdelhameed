@@ -6,7 +6,8 @@
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=OsamaAbdelhameed&label=Profile+Views&color=0ea5e9&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/OsamaAbdelhameed?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/OsamaAbdelhameed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mindsteptutor.com/en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://osamaabdelnasser.netlify.app/)
+[![MindStepTutor](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=black)](https://mindsteptutor.com/en)
 [![Email](https://img.shields.io/badge/founder%40mindsteptutor.com-contact-0ea5e9?style=flat-square&logo=gmail)](mailto:osamaabdelhameed41@gmail.com)
 
 </div>
