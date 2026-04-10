@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Typing SVG animation — instant attention -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Osama+Abdelnasser+%F0%9F%91%8B;Founder+%40+Mind+Step+Tutor;Mid-Junior+Software+Engineer+%7C+Cursor+%7C+TypeScript+%7C+Python;CRM+%7C+CMS+%7C+E-commerce+%7C+Shopify;Distributed+Microservices+%7C+Monolithic;AWS+%7C+GCP+%7C+Alibaba+Random+VPS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Osama+Abdelnasser+%F0%9F%91%8B;Founder+%40+Mind+Step+Tutor;Mid-Junior+Software+Engineer;Cursor+%7C+TypeScript+%7C+Python;CRM+%7C+CMS+%7C+E-commerce+%7C+Shopify;Distributed+Microservices+%7C+Monolithic;AWS+%7C+GCP+%7C+Alibaba+%7C+Random+VPS" alt="Typing SVG" />
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=OsamaAbdelhameed&label=Profile+Views&color=0ea5e9&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/OsamaAbdelhameed?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/OsamaAbdelhameed)
-[![Website](https://img.shields.io/badge/mind-step-private-tutor?style=flat-square&logo=vercel)](https://mindsteptutor.com/en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mindsteptutor.com/en)
 [![Email](https://img.shields.io/badge/founder%40mindsteptutor.com-contact-0ea5e9?style=flat-square&logo=gmail)](mailto:osamaabdelhameed41@gmail.com)
 
 </div>
