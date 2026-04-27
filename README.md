@@ -33,7 +33,7 @@ Full Stack Software Engineer with hands-on experience building AI-driven CRM sys
 ## 🏢 Experience
 
 ### Full Stack Software Engineer — Salesmrkt
-**September 2025 – Feb** · Seattle, USA (Remote)
+**September 2025 – March 2026** · Seattle, USA (Remote)
 
 - Converted a React project to Next.js for improved security and flexibility
 - Built an AI chatting system with Gemini, delivering recommendations and in-depth search with **~1.5s response times**
@@ -44,7 +44,7 @@ Full Stack Software Engineer with hands-on experience building AI-driven CRM sys
 - Managed VM instances for hosting and deployment on Google Cloud
 
 ### Full Stack Software Engineer — Engages AI
-**March 2024 – August 2025** · Singapore (Remote)
+**January 2024 – August 2025** · Singapore (Remote)
 
 - Developed a CRM chat application with AI chatbot capabilities
 - Built frontend features using MUI, React, Redux, Socket.io, RabbitMQ, and web widgets
@@ -59,14 +59,14 @@ Full Stack Software Engineer with hands-on experience building AI-driven CRM sys
 - Provided unit testing with Jest
 
 ### Software Engineer Intern — Engages AI
-**August 2023 – February 2024** · Malaysia (Hybrid)
+**May 2023 – December 2023** · Malaysia (Hybrid)
 
 - Contributed to Quickdesk (Engages AI) CRM web application development
 - Developed frontend in React; backend using NestJS, PostgreSQL, Redis, and Alibaba ChatApp
 - Developed AI chatbots using the RASA framework
 
 ### System Analyst Intern — Universiti Sains Islam Malaysia
-**February 2023 – April 2023** · Malaysia (Remote)
+**October 2022 – April 2023** · Malaysia (Remote)
 
 - Modernized the tech stack by migrating from PHP and Kotlin to React and React Native
 - Improved performance, maintainability, and cross-platform mobile support
