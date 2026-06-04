@@ -141,8 +141,8 @@ Full Stack Software Engineer with hands-on experience building AI-driven CRM sys
 <div align="center">
 
 <!-- Overall Stats and Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=OsamaAbdelhameed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="195px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAbdelhameed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" />
+<img src="https://github-readme-stats-phi.vercel.app/api?username=OsamaAbdelhameed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="195px" />
+<img src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=OsamaAbdelhameed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" />
 
 <br/>
 
