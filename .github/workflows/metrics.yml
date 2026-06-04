@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (Optional) Run workflow manually
+  workflow_dispatch:
+  # (Optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: General stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories, metadata
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Jakarta
