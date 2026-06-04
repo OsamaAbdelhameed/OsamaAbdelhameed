@@ -206,6 +206,7 @@ Egyptian citizen · Based in Indonesia · Remote-first
 
 ---
 
+
 <div align="center">
 
 **Full-stack engineer building AI-integrated products, remotely.**
